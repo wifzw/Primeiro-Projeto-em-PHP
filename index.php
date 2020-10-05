@@ -14,8 +14,6 @@ $data = date("Y-d-m", $receber);
         -----------------------------
         # Sistema de Tarefa simples
         # Date: 15-04-2020 Finalizado
-        # Name: Kauan C. Motta
-        # Nivel: Básico
         -----------------------------
     -->
     <meta charset="UTF-8">
